@@ -35,6 +35,3 @@ Contributions are welcome! Feel free to 📢 open issues, 🚀 suggest improveme
 👨‍💻 **Authors**:
 - Aldric Shaun Rajesh
 
----
-
-Please replace `[Your Name]` with the name of the actual author or contributors. Feel free to adjust the emojis or add more to match your project's style.
