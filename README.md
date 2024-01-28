@@ -1,9 +1,5 @@
 # RPC-Simulation-of-a-Plaza
-Certainly! Here's a revised project description with emojis:
-
----
-
-🏢 **Project Title**: Plaza Simulation System
+🏢 Plaza Simulation System
 
 📚 **Description**:
 The Plaza Simulation System is a C# application that simulates the operations of a plaza with different client types (sellers, eaters, and drinkers). The system is designed to demonstrate key software engineering concepts and best practices. It consists of a server component and client components that interact through RPC (Remote Procedure Call).
